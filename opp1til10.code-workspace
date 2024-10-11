@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"name": "opp1",
+			"path": "opp1"
+		},
+		{
+			"name": "opp2",
+			"path": "opp2"
+		},
+		{
+			"name": "opp3",
+			"path": "opp3"
+		},
+		{
+			"name": "opp4",
+			"path": "opp4"
+		},
+		{
+			"name": "opp5",
+			"path": "opp5"
+		},
+		{
+			"name": "opp6",
+			"path": "opp6"
+		},
+		{
+			"name": "opp7",
+			"path": "opp7"
+		},
+		{
+			"name": "opp8",
+			"path": "opp8"
+		},
+		{
+			"name": "opp9",
+			"path": "opp9"
+		},
+		{
+			"name": "opp10",
+			"path": "opp10"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
